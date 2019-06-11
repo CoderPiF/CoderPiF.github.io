@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://CoderPiF.github.io/"/>
-  <updated>2019-06-11T08:53:39.193Z</updated>
+  <updated>2019-06-11T08:55:57.753Z</updated>
   <id>http://CoderPiF.github.io/</id>
   
   <author>
@@ -21,17 +21,18 @@
     <link href="http://CoderPiF.github.io/2019/06/11/%E6%B5%8B%E8%AF%95/"/>
     <id>http://CoderPiF.github.io/2019/06/11/测试/</id>
     <published>2019-06-11T08:29:48.000Z</published>
-    <updated>2019-06-11T08:53:39.193Z</updated>
+    <updated>2019-06-11T08:55:57.753Z</updated>
     
-    <content type="html"><![CDATA[<p>测试一下<br><img src="/uploads/avatar-1.jpeg" alt="avatar-1"></p><p><img src="/uploads/test.jpeg" alt="test"></p>]]></content>
+    <content type="html"><![CDATA[<p>测试一下</p><p><img src="/uploads/avatar-2.jpeg" alt="avatar-2"></p><p><img src="/uploads/avatar-1.jpeg" alt="avatar-1"></p><p><img src="/uploads/test.jpeg" alt="test"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;测试一下&lt;br&gt;&lt;img src=&quot;/uploads/avatar-1.jpeg&quot; alt=&quot;avatar-1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/uploads/test.jpeg&quot; alt=&quot;test&quot;&gt;&lt;/p&gt;
-
+        &lt;p&gt;测试一下&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/avatar-2.jpeg&quot; alt=&quot;avatar-2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/avatar-1.jpeg&quot; alt=&quot;avatar-1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/
       
     
     </summary>
